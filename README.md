@@ -1,12 +1,12 @@
 <h1 align="center">
   <img src="https://github.com/ZtrolixGit/EnhancedCraft/blob/main/ec.png?raw=true"/>
-  EnhancedCraft: Elevating Minecraft's Essence!
+  EnhancedCraft V2
 </h1>
 
 <h3 align="center">---- Description ----</h3>
 
 Embark on an enhanced Minecraft journey with EnhancedCraft, a transformative mod pack designed to redefine your gameplay.
-EnhancedCraft isn't just a mod pack; it's a multiplayer-friendly experience that elevates every facet of your Minecraft adventure. Ready for the next level? Dive into EnhancedCraft now!
+EnhancedCraft V2 isn't just a mod pack; it's a multiplayer-friendly experience that elevates every facet of your Minecraft adventure. Ready for the next level? Dive into EnhancedCraft now!
 
 <h3 align="center">---- Key Features ----</h3>
 
@@ -26,4 +26,4 @@ EnhancedCraft isn't just a mod pack; it's a multiplayer-friendly experience that
     Engage in challenging battles with overhauled combat mechanics and face formidable adversaries that will test your skills.
 
 - #### Multiplayer Adventure:
-    EnhancedCraft is multiplayer-friendly, encouraging collaboration in conquering dungeons, building projects, and immersing yourself in an enhanced Minecraft world.
+    EnhancedCraft V2 is multiplayer-friendly, encouraging collaboration in conquering dungeons, building projects, and immersing yourself in an enhanced Minecraft world.
