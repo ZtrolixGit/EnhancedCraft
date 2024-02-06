@@ -1,6 +1,6 @@
 <h1 align="center">
-  <img src="https://github.com/ZtrolixGit/EnhancedCraft/blob/main/ec.png?raw=true"/>
-  EnhancedCraft: Elevating Minecraft's Essence!
+  <img src="https://github.com/ZtrolixGit/EnhancedCraft/blob/v2/eclogo.png?raw=true"/>
+  EnhancedCraft
 </h1>
 
 <h3 align="center">---- Description ----</h3>
