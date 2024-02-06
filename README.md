@@ -7,6 +7,12 @@
 Embark on an enhanced Minecraft journey with EnhancedCraft, a transformative mod pack designed to redefine your gameplay.
 EnhancedCraft isn't just a mod pack; it's a multiplayer-friendly experience that elevates every facet of your Minecraft adventure. Ready for the next level? Dive into EnhancedCraft now!
 
+<h3 align="center">---- Download ----</h3>
+
+- #### [Download 2.0.0b](https://cdn.modrinth.com/data/H5R32EC1/versions/QMCmQPvf/EnhancedCraft_2.0.0b.mrpack)
+
+- #### [Download 1.0.0a](https://cdn.modrinth.com/data/H5R32EC1/versions/H66QQc42/EnhancedCraft_Alpha-1.0.0_Fabric.mrpack)
+
 <h3 align="center">---- Key Features ----</h3>
 
 - #### Discover New Realms:
