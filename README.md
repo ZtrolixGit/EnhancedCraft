@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://github.com/ZtrolixGit/EnhancedCraft/blob/main/eclogo.png?raw=true"/>
+  <img src="https://github.com/ZtrolixGit/EnhancedCraft/blob/main/d-ecbg.png?raw=true"/>
 </h1>
 
 <h3 align="center">---- Description ----</h3>
